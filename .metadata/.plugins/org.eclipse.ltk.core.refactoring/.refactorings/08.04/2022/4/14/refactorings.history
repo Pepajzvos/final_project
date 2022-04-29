@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;lblNewLabel&apos; in &apos;Obrazek.Obrazek()&apos; to &apos;text&apos;&#x0D;&#x0A;- Original project: &apos;08.04&apos;&#x0D;&#x0A;- Original element: &apos;Obrazek.Obrazek().lblNewLabel&apos;&#x0D;&#x0A;- Renamed element: &apos;lblNewLabel&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;lblNewLabel&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Obrazek.java[Obrazek~Obrazek@lblNewLabel!1093!1132!1100!1110!QJLabel;!0!false" name="text" references="true" stamp="1649404727616" version="1.0"/>
+</session>
